@@ -59,7 +59,7 @@
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
-                <button type="button" onclick="storeStudent()" class="btn btn-primary">Update Student</button>
+                <button type="button" onclick="updateStudent()" class="btn btn-primary">Update Student</button>
             </div>
         </div>
     </div>
